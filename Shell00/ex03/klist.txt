@@ -1,0 +1,5 @@
+Credentials cache: API:4333
+        Principal: kmoutaou@1337.MA
+
+  Issued                Expires               Principal
+Aug  2 11:32:36 2021  Aug  9 11:32:19 2021  krbtgt/1337.MA@1337.MA
